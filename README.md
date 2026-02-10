@@ -207,7 +207,7 @@ python src/spacex_dash_app.py
 
 **Devendranath Maganti**
 - M.S. Applied Statistics (Data Science) — Colorado State University
-- [LinkedIn](https://www.linkedin.com/in/devendranath-maganti)
+- [LinkedIn](https://www.linkedin.com/in/devendranath-maganti/)
 - [GitHub](https://github.com/devendranath997)
 
 ---
